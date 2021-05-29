@@ -1,0 +1,222 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-size: 100%;
+    -webkit-perspective: 800;
+}
+
+li {
+    list-style: none;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin: 300px auto;
+    transform-style: preserve-3d;
+    transform: rotateX(13deg);
+    animation: move 5s linear infinite;
+}
+
+.minbox {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    transform-style: preserve-3d;
+}
+
+.minbox li {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.minbox li:nth-child(1) {
+    background: url('../images/minbox.jpg') no-repeat 0 0;
+    transform: translateZ(50px);
+    background-size: cover;
+}
+
+.minbox li:nth-child(2) {
+    background: url('../images/minbox2.jpg') no-repeat 0 0;
+    transform: rotateX(180deg) translateZ(50px);
+    background-size: cover;
+}
+
+.minbox li:nth-child(3) {
+    background: url('../images/minbox3.jpg') no-repeat 0 0;
+    transform: rotateX(-90deg) translateZ(50px);
+    background-size: cover;
+}
+
+.minbox li:nth-child(4) {
+    background: url('../images/minbox4.jpg') no-repeat 0 0;
+    transform: rotateX(90deg) translateZ(50px);
+    background-size: cover;
+}
+
+.minbox li:nth-child(5) {
+    background: url('../images/minbox5.jpg') no-repeat 0 0;
+    transform: rotateY(-90deg) translateZ(50px);
+    background-size: cover;
+}
+
+.minbox li:nth-child(6) {
+    background: url('../images/minbox6.jpg') no-repeat 0 0;
+    transform: rotateY(90deg) translateZ(50px);
+    background-size: cover;
+}
+
+.maxbox li:nth-child(1) {
+    background: url('../images/maxbox.jpg') no-repeat 0 0;
+    transform: translateZ(50px);
+    background-size: 100% 100%;
+    transform: translateZ(100px);
+}
+
+.maxbox li:nth-child(2) {
+    background: url('../images/maxbox2.jpg') no-repeat 0 0;
+    transform: rotateX(180deg) translateZ(100px);
+    background-size: 100% 100%;
+}
+
+.maxbox li:nth-child(3) {
+    background: url('../images/maxbox3.jpg') no-repeat 0 0;
+    transform: rotateX(-90deg) translateZ(100px);
+    background-size: 100% 100%;
+}
+
+.maxbox li:nth-child(4) {
+    background: url('../images/maxbox4.jpg') no-repeat 0 0;
+    transform: rotateX(90deg) translateZ(100px);
+    background-size: 100% 100%;
+}
+
+.maxbox li:nth-child(5) {
+    background: url('../images/maxbox5.jpg') no-repeat 0 0;
+    transform: rotateY(-90deg) translateZ(100px);
+    background-size: 100% 100%;
+}
+
+.maxbox li:nth-child(6) {
+    background: url('../images/maxbox6.jpg') no-repeat 0 0;
+    transform: rotateY(90deg) translateZ(100px);
+    background-size: 100% 100%;
+}
+
+
+
+
+.maxbox li:nth-child(4) {
+    transform: rotateX(90deg) translateZ(100px);
+}
+
+.maxbox li:nth-child(5) {
+    transform: rotateY(-90deg) translateZ(100px);
+}
+
+.maxbox li:nth-child(6) {
+    transform: rotateY(90deg) translateZ(100px);
+}
+
+.maxbox {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform-style: preserve-3d;
+}
+
+.maxbox li {
+    width: 200px;
+    height: 200px;
+    background: #fff;
+    border: 1px solid #ccc;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0.2;
+    transition: all 1s ease;
+}
+
+
+.box:hover ol li:nth-child(1) {
+    transform: translateZ(300px);
+    width: 400px;
+    height: 400px;
+    opacity: 0.8;
+    left: -100px;
+    top: -100px;
+}
+
+.box:hover ol li:nth-child(2) {
+    transform: rotateX(180deg) translateZ(300px);
+    width: 400px;
+    height: 400px;
+    opacity: 0.8;
+    left: -100px;
+    top: -100px;
+}
+
+.box:hover ol li:nth-child(3) {
+    transform: rotateX(-90deg) translateZ(300px);
+    width: 400px;
+    height: 400px;
+    opacity: 0.8;
+    left: -100px;
+    top: -100px;
+}
+
+.box:hover ol li:nth-child(4) {
+    transform: rotateX(90deg) translateZ(300px);
+    width: 400px;
+    height: 400px;
+    opacity: 0.8;
+    left: -100px;
+    top: -100px;
+}
+
+.box:hover ol li:nth-child(5) {
+    transform: rotateY(-90deg) translateZ(300px);
+    width: 400px;
+    height: 400px;
+    opacity: 0.8;
+    left: -100px;
+    top: -100px;
+}
+
+.box:hover ol li:nth-child(6) {
+    transform: rotateY(90deg) translateZ(300px);
+    width: 400px;
+    height: 400px;
+    opacity: 0.8;
+    left: -100px;
+    top: -100px;
+}
+
+@keyframes move {
+    0% {
+        transform: rotateX(13deg) rotateY(0deg);
+    }
+    25% {
+        transform: rotateX(26deg) rotateY(90deg);
+    }    
+    50% {
+        transform: rotateX(50deg) rotateY(180deg);
+    }  
+    75% {
+        transform: rotateX(26deg) rotateY(270deg);
+    }            
+    100% {
+        transform: rotateX(13deg) rotateY(360deg);
+    }
+}
