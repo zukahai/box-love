@@ -3,6 +3,13 @@
     padding: 0;
 }
 
+html,
+body {
+    margin: 0;
+    height: 100%;
+    overflow: hidden
+}
+
 body {
     background-size: 100%;
     -webkit-perspective: 800;
@@ -70,38 +77,32 @@ li {
 }
 
 .maxbox li:nth-child(1) {
-    background: url('../images/maxbox.jpg') no-repeat 0 0;
     transform: translateZ(50px);
     background-size: 100% 100%;
     transform: translateZ(100px);
 }
 
 .maxbox li:nth-child(2) {
-    background: url('../images/maxbox2.jpg') no-repeat 0 0;
     transform: rotateX(180deg) translateZ(100px);
     background-size: 100% 100%;
 }
 
 .maxbox li:nth-child(3) {
-    background: url('../images/maxbox3.jpg') no-repeat 0 0;
     transform: rotateX(-90deg) translateZ(100px);
     background-size: 100% 100%;
 }
 
 .maxbox li:nth-child(4) {
-    background: url('../images/maxbox4.jpg') no-repeat 0 0;
     transform: rotateX(90deg) translateZ(100px);
     background-size: 100% 100%;
 }
 
 .maxbox li:nth-child(5) {
-    background: url('../images/maxbox5.jpg') no-repeat 0 0;
     transform: rotateY(-90deg) translateZ(100px);
     background-size: 100% 100%;
 }
 
 .maxbox li:nth-child(6) {
-    background: url('../images/maxbox6.jpg') no-repeat 0 0;
     transform: rotateY(90deg) translateZ(100px);
     background-size: 100% 100%;
 }

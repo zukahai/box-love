@@ -1,19 +1,19 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web2",
+    titleWeb: "Gửi em",
 
-    background: "https://img.freepik.com/free-photo/grunge-paint-background_1409-1337.jpg?w=2000",
+    background: "background.jpg",
 
-    min1: "Untitled.png",
-    min2: "Untitled.png",
-    min3: "Untitled.png",
-    min4: "Untitled.png",
-    min5: "Untitled.png",
-    min6: "Untitled.png",
+    min1: "min1.jfif",
+    min2: "min2.jpg",
+    min3: "max3.jpg",
+    min4: "max4.webp",
+    min5: "min5.jpg",
+    min6: "min6.jpg",
 
-    max1: "Untitled.png",
-    max2: "Untitled.png",
-    max3: "Untitled.png",
-    max4: "Untitled.png",
-    max5: "Untitled.png",
-    max6: "Untitled.png",
+    max1: "max1.jpg",
+    max2: "max2.jpg",
+    max3: "max3.jpg",
+    max4: "max4.webp",
+    max5: "max5.png",
+    max6: "max6.jpg",
 }
