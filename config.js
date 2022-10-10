@@ -3,8 +3,8 @@ const CONFIG = {
 
     background: "https://img.freepik.com/free-photo/grunge-paint-background_1409-1337.jpg?w=2000",
 
-    min1: "Untitled.png",
-    min2: "Untitled.png",
+    min1: "Untitled Diagram.jpg",
+    min2: "six.png",
     min3: "Untitled.png",
     min4: "Untitled.png",
     min5: "Untitled.png",
