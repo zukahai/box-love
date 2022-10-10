@@ -44,11 +44,19 @@ Mở folder images bằng cách click vào nó.
 Tiếp tục chọn add file, sau đó chọn upload files.
 <p align="center"> <img src="https://github.com/zukahai/HaiZuka/blob/master/Images/box4.png" alt="support" /> </p>
 
-Đến đây bạn hãy chỉnh sửa thông tin trong file đó theo ý của bạn. </br>
-Bạn có thể chỉnh sửa tên website, tên crush của bạn, chỉnh sửa đương link thành link message của bạn, ... </br>
-Sau khi chỉnh sửa xong bạn nhớ ấn và0 đây để lưu lại nhé.
+Chọn choose your file để tải các ảnh của bạn lên.
+<p align="center"> <img src="https://github.com/zukahai/HaiZuka/blob/master/Images/box5.png" alt="support" /> </p>
+Chọn commit changes để hoàn thành việc tải ảnh.
+<p align="center"> <img src="https://github.com/zukahai/HaiZuka/blob/master/Images/box6.png" alt="support" /> </p>
 
-<p align="center"> <img src="/imagesGithub/4.png" alt="support" /> </p>
+Sau khi tải ảnh xong các bạn chọn file config.js để sửa đổi thông tin nhé.
+<p align="center"> <img src="https://github.com/zukahai/HaiZuka/blob/master/Images/box7.png" alt="support" /> </p>
+
+Click vào biểu tượng chỉnh sửa
+<p align="center"> <img src="https://github.com/zukahai/HaiZuka/blob/master/Images/box8.png" alt="support" /> </p>
+
+Phần này các bạn cần chỉnh lại tên của các ảnh đúng với tên của các bạn đã tải lên ở folder images lúc nãy.
+<p align="center"> <img src="https://github.com/zukahai/HaiZuka/blob/master/Images/box9.png" alt="support" /> </p>
 
 ### Bước 4: Tạo trang web
 Để có thể xem cũng như đưa trang web của bạn cho người khác xem, bạn cần làm như sau. </br>
