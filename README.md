@@ -82,7 +82,7 @@ Bấm vào đường link, tại lại trang liên tục đến khi trang hoặc
 
 ### <p align="center"> Câu hỏi và phản hồi </p>
 
-Nếu bạn vẫn chưa làm được hoặc hoặc chưa biết mình làm sai ở đây hãy nhấn vào hình bên dưới hoặc nhấn [Tại đây](https://github.com/zukahai/Confess-Crush/issues/new)
+Nếu bạn vẫn chưa làm được hoặc hoặc chưa biết mình làm sai ở đây hãy nhấn vào hình bên dưới hoặc nhấn [Tại đây](https://github.com/zukahai/Box-love/issues/new)
 
 ### <p align="center">😘💔💙💓💝💟💑 Chúc các bạn thành công 💚💗💘💖💞💋👄</p>
 
