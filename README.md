@@ -61,28 +61,28 @@ Phần này các bạn cần chỉnh lại tên của các ảnh đúng với t�
 ### Bước 4: Tạo trang web
 Để có thể xem cũng như đưa trang web của bạn cho người khác xem, bạn cần làm như sau. </br>
 Đầu tiên chuyển sang phần setting bằng cách bấm và setting như hình dưới:
-<p align="center"> <img src="/imagesGithub/5.png" alt="setting" /> </p>
+<p align="center"> <img src="https://github.com/zukahai/Confess-Crush/blob/main/imagesGithub/5.png" alt="setting" /> </p>
 
 Tại đó hãy chọn mục pages
-<p align="center"> <img src="/imagesGithub/6.png" alt="setting" /> </p>
+<p align="center"> <img src="https://github.com/zukahai/Confess-Crush/blob/main/imagesGithub/6.png" alt="setting" /> </p>
 Tại mục branch chọn Main và bấm save để lưu lại:
-<p align="center"> <img src="/imagesGithub/7.png" alt="setting" /> </p>
+<p align="center"> <img src="https://github.com/zukahai/Confess-Crush/blob/main/imagesGithub/7.png" alt="setting" /> </p>
 Lúc này đương link của bạn sẽ hiện lên tương tự như thế này.
-<p align="center"> <img src="/imagesGithub/8.png" alt="setting" /> </p>
+<p align="center"> <img src="https://github.com/zukahai/Confess-Crush/blob/main/imagesGithub/8.png" alt="setting" /> </p>
 Bấm vào đường link, tại lại trang liên tục đến khi trang hoặc động nhé (Bạn cần chờ khoảng 2 phút) </br>
-Nếu bạn chờ lâu quá mà trang web không hoặc động bạn có thể thêm chữ index.html phía sau đương link như thế này:
-<p align="center"> <img src="/imagesGithub/9.png" alt="setting" /> </p>
+
 
 <hr>
 
-### [<p align="center"> Ấn vào đây để xem kết quả tương tự của bạn </p>](https://zukahai.github.io/Confess-Crush/)
+### [<p align="center"> Ấn vào đây để xem kết quả tương tự của bạn </p>](https://zukahai.github.io/Box-love/)
 
-[<p align="center"> <img src="/imagesGithub/demo.png" alt="web" /> </p>](https://zukahai.github.io/Confess-Crush/)
+[<p align="center"> <img src="https://github.com/zukahai/HaiZuka/blob/master/Images/box_bg.gif" alt="web" /> </p>](https://zukahai.github.io/Box-love/)
 
 <hr>
 
 ### <p align="center"> Câu hỏi và phản hồi </p>
 
 Nếu bạn vẫn chưa làm được hoặc hoặc chưa biết mình làm sai ở đây hãy nhấn vào hình bên dưới hoặc nhấn [Tại đây](https://github.com/zukahai/Confess-Crush/issues/new)
-[<p align="center"> <img src="/img/logi.gif" alt="web" /> </p>](https://github.com/zukahai/Confess-Crush/issues/new)
+
+### <p align="center">😘💔💙💓💝💟💑 Chúc các bạn thành công 💚💗💘💖💞💋👄</p>
 
