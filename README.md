@@ -10,8 +10,6 @@
   * [Bước 2: Fork project](#bước-2-fork-project) </br>
   * [Bước 3: Chỉnh sửa trang web](#bước-3-chỉnh-sửa-web-theo-ý-của-bạn) </br>
   * [Bước 4: Tạo trang web](#bước-4-tạo-trang-web) </br>
-* Video Hướng dẫn
-  * [Video hướng dẫn](#-video-hướng-dẫn-)
 * Xem sản phẩm
   * [Xem sản phẩm](#-ấn-vào-đây-để-xem-kết-quả-tương-tự-của-bạn-)
 * Câu hỏi và phản hồi
@@ -25,7 +23,7 @@ Lưu ý: Nếu bạn đang sử dụng điện thoại thì bạn cần mở hư
 Bạn phải có tài khoản github, nếu bạn chưa có hay đăng ký [Tại đây](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) </br>
 Sau khi đăng nhập bạn quay lại đây nhé, các bước tiếp theo vô cùng đơn giản thôi.</br></br>
 Follow github.</br>
-<p align="center"> <img src="/imagesGithub/follow.png" alt="bg" /> </p>
+<p align="center"> <img src="https://github.com/zukahai/Confess-Crush/blob/main/imagesGithub/follow.png" alt="bg" /> </p>
 
 Truy cập và đường link và ấn follow cho mình nhé: https://github.com/zukahai
 
