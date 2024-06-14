@@ -59,17 +59,30 @@ Phần này các bạn cần chỉnh lại tên của các ảnh đúng với t�
 <p align="center"> <img src="https://github.com/zukahai/HaiZuka/blob/master/Images/box9.png" alt="support" /> </p>
 
 ### Bước 4: Tạo trang web
-Để có thể xem cũng như đưa trang web của bạn cho người khác xem, bạn cần làm như sau. </br>
-Đầu tiên chuyển sang phần setting bằng cách bấm và setting như hình dưới:
-<p align="center"> <img src="https://github.com/zukahai/Confess-Crush/blob/main/imagesGithub/5.png" alt="setting" /> </p>
 
-Tại đó hãy chọn mục pages
-<p align="center"> <img src="https://github.com/zukahai/Confess-Crush/blob/main/imagesGithub/6.png" alt="setting" /> </p>
-Tại mục branch chọn Main và bấm save để lưu lại:
-<p align="center"> <img src="https://github.com/zukahai/Confess-Crush/blob/main/imagesGithub/7.png" alt="setting" /> </p>
-Lúc này đương link của bạn sẽ hiện lên tương tự như thế này.
-<p align="center"> <img src="https://github.com/zukahai/Confess-Crush/blob/main/imagesGithub/8.png" alt="setting" /> </p>
-Bấm vào đường link, tại lại trang liên tục đến khi trang hoặc động nhé (Bạn cần chờ khoảng 2 phút) </br>
+Đầu tiên các bạn truy cập: https://vercel.com/login
+
+Chọn đăng nhập bằng github:
+
+<p align="center"> <img src="https://github.com/zukahai/confess-crush/blob/main/imagesGithub/vercel1.png" alt="support" /> </p>
+
+Sau khi đăng nhập, tại giao diện chính, bấm nút **Add New**, chọn **Project**
+
+<p align="center"> <img src="https://github.com/zukahai/confess-crush/blob/main/imagesGithub/vercel2.png" alt="support" /> </p>
+
+Bấm **import** bên phải **Box-love** như trong hình:
+
+<p align="center"> <img src="https://github.com/zukahai/confess-crush/blob/main/imagesGithub/vercel3.png" alt="support" /> </p>
+
+Chọn **Deploy** và chờ khoảng 1 phút để trang web của bạn được tạo.
+
+<p align="center"> <img src="https://github.com/zukahai/confess-crush/blob/main/imagesGithub/vercel4.png" alt="support" /> </p>
+
+Sau khi xuất hiện như hình dưới thì chúc mừng bạn đã tạo trang web thành công. Bấm vào theo như hình để lấy link trang web của bạn.
+
+<p align="center"> <img src="https://github.com/zukahai/confess-crush/blob/main/imagesGithub/vercel5.png" alt="support" /> </p>
+
+<hr>
 
 
 <hr>
