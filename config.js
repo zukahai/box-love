@@ -3,15 +3,15 @@ const CONFIG = {
 
     background: "background.jpg",
 
-    min1: "min1.jfif",
-    min2: "min2.jpg",
-    min3: "max3.jpg",
-    min4: "max4.webp",
-    min5: "min5.jpg",
-    min6: "min6.jpg",
+    min1: "0Z5A6223.jpg",
+    min2: "0Z5A6273.jpg",
+    min3: "0Z5A6427.jpg",
+    min4: "0Z5A6434.jpg",
+    min5: "0Z5A6637.jpg",
+    min6: "0Z5A6700.jpg",
 
-    max1: "max1.jpg",
-    max2: "max2.jpg",
+    max1: "m6.jpg",
+    max2: "m.jpg",
     max3: "max3.jpg",
     max4: "max4.webp",
     max5: "max5.png",
