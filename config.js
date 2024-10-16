@@ -15,5 +15,5 @@ const CONFIG = {
     max3: "max3.jpg",
     max4: "max4.webp",
     max5: "max5.png",
-    max6: "max6.jpg",
+    max6: "max6.jpg", 
 }
